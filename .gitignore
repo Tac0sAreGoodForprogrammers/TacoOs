@@ -1,0 +1,12 @@
+#GITIGNORE
+# build artifacts
+*.o
+*.bin
+*.img
+os-image
+
+# backups
+*~
+
+# misc
+*.log
